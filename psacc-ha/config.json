@@ -1,6 +1,6 @@
 {
   "name": "PSA Car Controller FIX",
-  "version": "v0.1.941",
+  "version": "v0.1.95",
   "slug": "psacc",
   "description": "Control and get information from your PSA car",
   "arch": [
